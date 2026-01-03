@@ -7,13 +7,13 @@ I turn ideas into working products: from custom web apps and highly customized a
 - Core disciplines: web development, branding and design, marketing and digital growth
 - Background: 20+ years in the German organic food industry, working with startups, also as a subcontractor for agencies
 
----
 
-## What I am working on right now
+
+# What I am working on right now
 
 Right now I am mainly building Laravel and Filament based tools that solve real world problems for small businesses and self employed people.
 
-### Autónomotools (Laravel 12 + Filament + Livewire)
+## Autónomotools (Laravel 12 + Filament + Livewire)
 
 A toolkit for self employed people in Spain that makes the painful parts a bit less painful.
 
@@ -22,7 +22,7 @@ A toolkit for self employed people in Spain that makes the painful parts a bit l
 - Built with Laravel 12, Filament, Livewire and Tailwind
 - In active development, private repo for now
 
-### Second Filament app
+## Booking app in the mobility industry (NDA)
 
 I am also building a second large Filament powered application.
 
@@ -73,9 +73,9 @@ If you want more background, I have full German and English CV style writeups wi
 
 ## Community, writing and teaching
 
-I have been a long time Stack Overflow contributor with roughly seven thousand authored answers.
+I have been a long time Stack Overflow contributor with roughly seven thousand authored answers. I also was a very active member on its Meta, usually arguing for UX improvements or creative ways to create a friendlier culture.
 
-People usually know me there for friendly, detailed and thoroughly researched posts, and for arguing that Meta Stack Overflow should be kinder and more welcoming.
+People usually know me there for friendly, detailed and thoroughly researched posts.
 
 I like explaining things in simple language, documenting decisions and mentoring people who are entering web development or independent work.
 
@@ -84,7 +84,7 @@ I like explaining things in simple language, documenting decisions and mentoring
 ## Skills and tools
 
 **Web development**  
-PHP, Laravel 12, Livewire, Filament, WordPress (themes, plugins, Gutenberg blocks, Custom Post Types, multisite), some JavaScript, HTML and CSS.
+PHP, Laravel, Livewire, Filament, WordPress (custom themes, custom plugins, custom Gutenberg blocks, Custom Post Types, multisite networks), JavaScript in the frontend, HTML and CSS. Some experience with React, React Native, and JavaScript on the server.
 
 **Branding and design**  
 Corporate design, packaging and label design, social media visuals, video editing. Adobe Creative Cloud: InDesign, Illustrator, Photoshop, Premiere, Lightroom, Media Encoder.
