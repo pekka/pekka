@@ -1,12 +1,16 @@
+<img width="100%" height="auto" alt="image" src="https://github.com/user-attachments/assets/eca134c4-161b-4a77-8b27-68df4e476cc9" />
 
-Creative web developer, brand designer, and online marketer building Laravel and WordPress projects
+<img width="auto" height="2em" alt="image" src="https://github.com/user-attachments/assets/4845ad10-4c3f-4d15-b16a-445ba9bd9c3a" />
 
-I excel at turning ideas into working products: from custom web apps and highly customized admin panels to brand design, package design, and online campaigns. Decades of experience working as a part of, and directing, the marketing and digital team at an independent organic food company in Germany.
 
-- *Location*: Lanzarote, Canary Islands (fully remote for 10+ years)
-- *Core disciplines*: web development, branding and design, marketing and digital growth
-- *Background:* 20+ years in the German organic food industry, working with startups, also as a subcontractor for agencies
+I excel at turning ideas into working products: from custom web apps and highly customized admin panels to brand design, package design, and online campaigns. 
 
+- **Location**: Lanzarote, Canary Islands (fully remote for 10+ years)
+- **Core disciplines**: web development, branding and design, marketing and digital growth
+- **Background:** 20+ years at an indie organic food company in Germany, working with startups, also as a subcontractor for agencies
+- **Experience:** Working solo, as part of a team, directing a team. Remote work veteran
+
+<img width="auto" height="2em" alt="image" src="https://github.com/user-attachments/assets/4845ad10-4c3f-4d15-b16a-445ba9bd9c3a" />
 
 # What I am working on right now
 
@@ -21,11 +25,9 @@ Autónomotools helps freelancers in Spain navigate the system and their financia
 - an hourly rate calculator that takes into account Spanish taxes and social security
 - comparisons with employed salaries
 - Balance calculators and payment planning helpers
-- Built on Laravel 12, Filament, Livewire and Tailwind
 - In active development, set to launch in 2026
  
-## Booking and fleet management app in the mobility industry (NDA)
-Built on Laravel 10, Filament, Livewire and Tailwind 
+## Booking and fleet management app (NDA, Laravel 10 + Filament + Livewire)
 
 - Multiuser, multitenant, customer facing login area
 - Booking and price calculations, transactional email, payments, SMS and Whatsapp
@@ -35,13 +37,20 @@ Built on Laravel 10, Filament, Livewire and Tailwind
 - Building Filament apps (entire lifecycle or as part of a team)
 - deep customizations of web apps that makes them feel like a truly unique product
 
+<img width="auto" height="2em" alt="image" src="https://github.com/user-attachments/assets/4845ad10-4c3f-4d15-b16a-445ba9bd9c3a" />
+
 # AI-assisted programming
 
 While far from being an AI hype man, I have come to greatly enjoy working with Claude Code, Conductor, OpenCode and similar tools. 
 
-Conductor is currently free and I cannot recommend it enough.
+[Conductor](https://conductor.build) is currently free and I cannot recommend it enough.
+
+[<img width="400" height="auto" alt="image" src="https://github.com/user-attachments/assets/42c8c270-60ce-447f-a16f-3a5307c045a7" />]([url](https://conductor.build))
+
 
 Planning together with an AI assistant, then doing closely supervised code creation, has become a new and surprisingly enjoyable way of working for me, especially in solo projects where keeping planning, documentation, and commit discipline can be a challenge.
+
+<img width="auto" height="2em" alt="image" src="https://github.com/user-attachments/assets/4845ad10-4c3f-4d15-b16a-445ba9bd9c3a" />
 
 
 # Selected projects
@@ -64,18 +73,17 @@ Planning together with an AI assistant, then doing closely supervised code creat
   _PHP, custom import scripts, Google Maps; makes local events discoverable at a glance._
 
 
-
----
+<img width="auto" height="2em" alt="image" src="https://github.com/user-attachments/assets/4845ad10-4c3f-4d15-b16a-445ba9bd9c3a" />
 
 # Community, writing and teaching
 
-I have been a long time Stack Overflow contributor with roughly seven thousand authored answers. I also was a very active member on its Meta, usually arguing for UX improvements or creative ways to create a friendlier culture.
+I am known for friendly, detailed, thoroughly researched contributions, assistance and support in various online communities:
 
-People usually know me there for friendly, detailed and thoroughly researched posts.
+- on self-employment, e.g. in [Autónom@s & self-employed in Spain](https://www.facebook.com/groups/autonomosspain)
+- a long time [Stack Overflow contributor with roughly seven thousand authored answers](https://stackoverflow.com/users/187606/pekka)
+- Also on [Meta Stack Overflow](https://meta.stackoverflow.com/users/187606/pekka?tab=questions), usually arguing for UX improvements or creative ways to create a friendlier culture
 
-I like explaining things in simple language, documenting decisions and mentoring people who are entering web development or independent work.
-
----
+<img width="auto" height="2em" alt="image" src="https://github.com/user-attachments/assets/4845ad10-4c3f-4d15-b16a-445ba9bd9c3a" />
 
 # Skills and tools
 
@@ -94,7 +102,7 @@ ImageMagick, FFmpeg, GhostScript, Linux server administration, Git based deploym
 **Languages and markets**  
 German and Finnish (native), English (near native), Spanish (decent). Experience working with clients in the UK, mainland Europe, especially Germany, Switzerland, and the US.
 
----
+<img width="auto" height="2em" alt="image" src="https://github.com/user-attachments/assets/4845ad10-4c3f-4d15-b16a-445ba9bd9c3a" />
 
 # Work with clients and teams
 
@@ -108,7 +116,7 @@ I am looking for a long term collaborations where I can help shape products and 
 
 I have perfect time zone overlap with Central Europe and workable overlap with the U.S. East Coast. 
 
----
+<img width="auto" height="2em" alt="image" src="https://github.com/user-attachments/assets/4845ad10-4c3f-4d15-b16a-445ba9bd9c3a" />
 
 # Availability and contact
 
@@ -119,7 +127,7 @@ I am currently open for new work, from one off gigs to larger projects and long 
 - Twitter: https://x.com/Pekka_net
 - LinkedIn: https://www.linkedin.com/in/pekkagaiser/
 
-
+<img width="auto" height="2em" alt="image" src="https://github.com/user-attachments/assets/4845ad10-4c3f-4d15-b16a-445ba9bd9c3a" />
 
 
 # Interests and hobbies
