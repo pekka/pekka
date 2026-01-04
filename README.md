@@ -1,7 +1,8 @@
 <img width="100%" height="auto" alt="image" src="https://github.com/user-attachments/assets/eca134c4-161b-4a77-8b27-68df4e476cc9" />
 
-<img width="auto" height="2em" alt="image" src="https://github.com/user-attachments/assets/4845ad10-4c3f-4d15-b16a-445ba9bd9c3a" />
 
+
+<img width="32" style="clear: left" height="16" alt="image" src="https://github.com/user-attachments/assets/4845ad10-4c3f-4d15-b16a-445ba9bd9c3a" />
 
 I excel at turning ideas into working products: from custom web apps and highly customized admin panels to brand design, package design, and online campaigns. 
 
@@ -10,7 +11,14 @@ I excel at turning ideas into working products: from custom web apps and highly 
 - **Background:** 20+ years at an indie organic food company in Germany, working with startups, also as a subcontractor for agencies
 - **Experience:** Working solo, as part of a team, directing a team. Remote work veteran
 
-<img width="auto" height="2em" alt="image" src="https://github.com/user-attachments/assets/4845ad10-4c3f-4d15-b16a-445ba9bd9c3a" />
+<br/>
+
+[<img width="200" style="float: left; margin-bottom: 2em" height="auto" alt="image" src="https://github.com/user-attachments/assets/bbebf164-77b3-4938-b2bc-6dc88ca6f41d" />](https://www.dropbox.com/scl/fi/0xxqisqdhhnrisvmd0utt/PekkaGaiser-CV-EN-WebDev.pdf?rlkey=9zm1hg9yaoshi4dmzkw2lg4bc&dl=0) 
+[<img width="200" style="float: left; margin-bottom: 2em" height="auto" alt="image" src="https://github.com/user-attachments/assets/e1a578e9-8f42-47af-9f53-ee6a7b34b259" /> ](mailto:pekka@pekka.net)
+[<img width="200" style="float: left; margin-bottom: 2em" height="auto" alt="image" src="https://github.com/user-attachments/assets/6512e0f7-37fe-4762-930f-c3e1eb999d29" />](https://www.linkedin.com/in/pekkagaiser/)<br/>
+
+<img width="auto" height="16" alt="image" src="https://github.com/user-attachments/assets/4845ad10-4c3f-4d15-b16a-445ba9bd9c3a" />
+
 
 # What I am working on right now
 
