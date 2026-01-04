@@ -8,7 +8,7 @@ I excel at turning ideas into working products: from custom web apps and highly 
 
 - **Location**: Lanzarote, Canary Islands (fully remote for 10+ years)
 - **Core disciplines**: web development, branding and design, marketing and digital growth
-- **Background:** 20+ years at an indie organic food company in Germany, working with startups, also as a subcontractor for agencies
+- **Background:** 20+ years at an indie organic food company in Germany, working with startups, subcontracting for agencies
 - **Experience:** Working solo, as part of a team, directing a team. Remote work veteran
 
 <br/>
