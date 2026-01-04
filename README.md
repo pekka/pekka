@@ -1,7 +1,7 @@
 
-Creative web developer and brand designer building Laravel and WordPress projects.
+Creative web developer, brand designer, and online marketer building Laravel and WordPress projects
 
-I excel at turning ideas into working products: from custom web apps and highly customized admin panels to brand design, package design, and online campaigns.
+I excel at turning ideas into working products: from custom web apps and highly customized admin panels to brand design, package design, and online campaigns. Decades of experience working as a part of, and directing, the marketing and digital team at an independent organic food company in Germany.
 
 - *Location*: Lanzarote, Canary Islands (fully remote for 10+ years)
 - *Core disciplines*: web development, branding and design, marketing and digital growth
@@ -14,28 +14,30 @@ Right now I am mainly building Laravel and Filament based tools that solve real 
 
 ## Autónomotools (Laravel 12 + Filament + Livewire)
 
-A toolkit for self employed people in Spain that makes the painful parts a bit less painful.
+<img width="400" height="auto" alt="image" src="https://github.com/user-attachments/assets/40432d0a-32d6-4b31-9a5d-d0468b5b7469" />
 
-- Hourly rate calculator that respects Spanish taxes and social security
-- Debt calculator and payment planning helpers for tax and social security authorities
-- Built with Laravel 12, Filament, Livewire and Tailwind
-- In active development, private repo for now
+Autónomotools helps freelancers in Spain navigate the system and their financials:
 
+- an hourly rate calculator that takes into account Spanish taxes and social security
+- comparisons with employed salaries
+- Balance calculators and payment planning helpers
+- Built on Laravel 12, Filament, Livewire and Tailwind
+- In active development, set to launch in 2026
+ 
 ## Booking and fleet management app in the mobility industry (NDA)
+Built on Laravel 10, Filament, Livewire and Tailwind 
 
-I am also building a second large Filament powered application.
+- Multiuser, multitenant, customer facing login area
+- Booking and price calculations, transactional email, payments, SMS and Whatsapp
 
-- In active development, under NDA
+## Currently available for:
 
-## Availability 
+- Building Filament apps (entire lifecycle or as part of a team)
+- deep customizations of web apps that makes them feel like a truly unique product
 
-If you work with Filament v3 or v4 and want a themed panel that feels like a custom product - I am currently open for projects!
+# AI-assisted programming
 
----
-
-# AI powered programming (while keeping the reins)
-
-Far from being an AI hype man, I have come to greatly enjoy working with Claude Code, Conductor, OpenCode and similar tools. 
+While far from being an AI hype man, I have come to greatly enjoy working with Claude Code, Conductor, OpenCode and similar tools. 
 
 Conductor is currently free and I cannot recommend it enough.
 
