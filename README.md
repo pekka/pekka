@@ -2,6 +2,7 @@ Web developer, brand designer, and content strategist living in the Canary Islan
 
 Currently building mainly on Laravel and the wonderful [Filament](https://filamentphp.com/).
 
-- Web: https://pekka.net
-- Linkedin: https://www.linkedin.com/in/pekkagaiser
-- Stack Overflow: https://stackoverflow.com/users/187606/pekka
+- Web: [pekka.net](https://pekka.net)
+- Linkedin: [@pekkagaiser](https://www.linkedin.com/in/pekkagaiser) 
+- Stack Overflow: [@pekka](https://stackoverflow.com/users/187606/pekka)
+- Twitter/X: [@pekka_net](https://x.com/pekka_net)
