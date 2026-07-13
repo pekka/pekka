@@ -12,5 +12,5 @@ Currently building mainly on Laravel and the wonderful [Filament](https://filame
 
 ## Experiments
 
-- **[Autónomo's Little Helper](https://github.com/pekka/autonomos-little-helper)** (pre-alpha)
+- [Autónomo's Little Helper](https://github.com/pekka/autonomos-little-helper) (alpha)
   an AI workflow for handling Spanish Autónomo incoming and outgoing receipts
