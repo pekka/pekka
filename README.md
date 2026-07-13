@@ -12,5 +12,5 @@ Currently building mainly on Laravel and the wonderful [Filament](https://filame
 
 ## Experiments
 
-- **[Electric Gestor](https://github.com/pekka/electric-gestor)** (pre-alpha)
+- **[Autónomo's Little Helper](https://github.com/pekka/autonomos-little-helper)** (pre-alpha)
   an AI workflow for handling Spanish Autónomo incoming and outgoing receipts
