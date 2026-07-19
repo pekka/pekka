@@ -4,7 +4,8 @@ Currently building mainly on Laravel and the wonderful [Filament](https://filame
 
 ## Sites
 
-- Portfolio & CV: [pekka.net](https://pekka.net/en)
+- Linktree: [pekka.org](https://pekka.org)
+- Portfolio & CV: [pekka.net](https://pekka.net)
 - Web Mechanic - on-demand web support: [pekka.pro](https://pekka.pro)
 - Linkedin: [@pekkagaiser](https://www.linkedin.com/in/pekkagaiser) 
 - Stack Overflow: [@pekka](https://stackoverflow.com/users/187606/pekka)
